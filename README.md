@@ -2,6 +2,9 @@
 Hi 👋, I'm Harsh,I am hard working and driven individual who isn't afraid to face a challenge.
 🎓Currently,I am in second year and pursuing Electronics and communication engineering from Bit,Mesra.
 
+ POSITION OF RESPONSIBILITY
+1. AI/ML Member at GDSC BIT Mesra
+
 
 🌱 I’m currently learning Machine Learning !!.
 
