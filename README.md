@@ -1,6 +1,6 @@
 # My-Portfolio
 Hi 👋, I'm Harsh,I am hard working and driven individual who isn't afraid to face a challenge.
-🎓Currently,I am in second year and pursuing Electronics and communication engineering from Bit,Mesra.
+🎓Currently,I am  pursuing Electronics and communication engineering from Bit,Mesra.
 
 
 
