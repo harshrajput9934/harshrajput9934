@@ -22,5 +22,3 @@ Leadership ,Teamwork,Patience,Determination and Commitment.
 <p align="left">
 <a href="https://linkedin.com/in/harsh-32b753215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-32b753215" height="30" width="40" /></a>
 <a href="https://instagram.com/harshrajput__03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshrajput__03" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/harshharsh_fire1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshharsh_fire1" height="30" width="40" /></a>
-</p>
